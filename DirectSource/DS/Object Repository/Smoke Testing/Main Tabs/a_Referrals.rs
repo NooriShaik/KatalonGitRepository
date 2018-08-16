@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Referrals</name>
+   <tag></tag>
+   <elementGuidId>c133b1c1-c16d-4598-b700-7f0e93721d5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@class = 'btn btn-default' and @title = 'Go to the Referrals page' and @href = '/referrals/invitations' and (text() = 'Referrals' or . = 'Referrals')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-if</name>
+      <type>Main</type>
+      <value>headerVm.user.isAuthorized(headerVm.$state.get('user.centerrep.referrals.invitations').data.access)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ui-sref</name>
+      <type>Main</type>
+      <value>user.centerrep.referrals.invitations</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>{'sc-btn-sub active':(headerVm.$state.includes('user.centerrep.referrals'))}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Go to the Referrals page</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/referrals/invitations</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Referrals</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;direct-source&quot;)/div[1]/div[1]/div[@class=&quot;sc-header sc-section-to-print-hide&quot;]/div[@class=&quot;sc-profiler&quot;]/div[@class=&quot;jumbotron&quot;]/div[@class=&quot;container hidden-xs&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12 sc-profiler-action-buttons-container&quot;]/div[@class=&quot;pull-left&quot;]/div[@class=&quot;sc-profiler-action-buttons sc-profiler-action-buttons-move-up&quot;]/div[1]/div[1]/a[@class=&quot;btn btn-default&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
